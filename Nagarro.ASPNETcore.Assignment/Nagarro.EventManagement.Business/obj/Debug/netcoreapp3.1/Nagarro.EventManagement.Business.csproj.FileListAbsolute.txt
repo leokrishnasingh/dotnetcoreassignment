@@ -1,0 +1,17 @@
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.deps.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.csprojAssemblyReference.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.AssemblyInfoInputs.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.AssemblyInfo.cs
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.csproj.CopyComplete
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.runtimeconfig.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.runtimeconfig.dev.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Business\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Business.genruntimeconfig.cache

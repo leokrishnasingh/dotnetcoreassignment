@@ -1,0 +1,15 @@
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.deps.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.runtimeconfig.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.runtimeconfig.dev.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.AssemblyInfoInputs.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.AssemblyInfo.cs
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.csproj.CoreCompileInputs.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.genruntimeconfig.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.csprojAssemblyReference.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.EntityDataModel\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.EntityDataModel.csproj.CopyComplete

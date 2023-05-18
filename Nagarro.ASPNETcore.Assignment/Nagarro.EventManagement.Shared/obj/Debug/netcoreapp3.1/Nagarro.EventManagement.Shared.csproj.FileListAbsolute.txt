@@ -1,0 +1,12 @@
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.deps.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.AssemblyInfo.cs
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.dll
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.pdb
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.runtimeconfig.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\bin\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.runtimeconfig.dev.json
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.genruntimeconfig.cache
+C:\Users\krishnasingh01\source\repos\Nagarro.ASPNETcore.Assignment\Nagarro.EventManagement.Shared\obj\Debug\netcoreapp3.1\Nagarro.EventManagement.Shared.csprojAssemblyReference.cache

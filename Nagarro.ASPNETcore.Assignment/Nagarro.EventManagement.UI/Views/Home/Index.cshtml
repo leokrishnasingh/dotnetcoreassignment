@@ -1,0 +1,48 @@
+﻿@model IEnumerable<EventDTO>
+@{
+    ViewData["Title"] = "Homepage";
+}
+
+
+<div class="text-center" style="background-color: #f7cac9;">
+    <h1 class="display-4"><strong>Welcome @ViewBag.UserName</strong></h1>
+    <br />
+
+    <div style="background-color: #deeaee;">
+        <table align="center">
+            <thead >
+                <tr>
+                    <td align="left" width=25%><h3>Future Events</h3></td>
+                    <td align="left" width=25%><h3>Past Events</h3></td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td align="left">
+                        <ul>
+                            @foreach (var item in Model)
+                            {
+                                if (item.Date > DateTime.Now && item.Type == false)
+                                {
+                                    <li><h5><a asp-action="Details" asp-controller="Event" asp-route-id="@item.EventId">@item.Title</a></h5></li>
+                                }
+                            }
+                        </ul>
+                    </td>
+                    <td align="left">
+                        <ul>
+                            @foreach (var item in Model)
+                            {
+                                if (item.Date < DateTime.Now && item.Type == false) 
+                                {
+                                    <li><h5><a asp-action="Details" asp-controller="Event" asp-route-id="@item.EventId">@item.Title</a></h5></li>
+                                }
+                            }
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
